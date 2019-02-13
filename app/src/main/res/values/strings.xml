@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="your_name">Jinitha paul</string>
+    <string name="my_name">Prakash sharma</string>
+    <string name="hiiiiii">hiiiiii</string>
+    <string name="usernmae">username</string>
+    <string name="click_me">click me</string>
+    <string name="submit">Submit</string>
+</resources>
